@@ -15,7 +15,11 @@
   </a>
 </div>
 
-## Мой Стек Технологий
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
 
 ![image](https://github.com/user-attachments/assets/822c9826-9279-4018-a9ca-2b198d53fe3c)
 ![image](https://github.com/user-attachments/assets/86b24550-9d95-4252-a176-ad9bb4e1c415)
