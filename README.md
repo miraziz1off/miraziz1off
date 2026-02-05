@@ -36,15 +36,16 @@
 
 <div align="left">
 
-✅ Python &nbsp; <img src="https://progress-bar.dev/100/?title=Python" />  
-⚪️ Java &nbsp; <img src="https://progress-bar.dev/40/?title=Java" />  
-⚪️ C &nbsp; <img src="https://progress-bar.dev/30/?title=C" />  
-✅ HTML &nbsp; <img src="https://progress-bar.dev/100/?title=HTML" />  
-✅ CSS &nbsp; <img src="https://progress-bar.dev/100/?title=CSS" />  
-✅ JavaScript &nbsp; <img src="https://progress-bar.dev/100/?title=JS" />  
-✅ Tailwind &nbsp; <img src="https://progress-bar.dev/90/?title=Tailwind" />  
-✅ SQL &nbsp; <img src="https://progress-bar.dev/80/?title=SQL" />  
-✅ Telegram Bot API &nbsp; <img src="https://progress-bar.dev/85/?title=Telegram+API" />  
+✅ Python <img src="https://img.shields.io/badge/Python-100%25-brightgreen" />
+⚪️ Java <img src="https://img.shields.io/badge/Java-40%25-yellow" />
+⚪️ C <img src="https://img.shields.io/badge/C-30%25-orange" />
+✅ HTML <img src="https://img.shields.io/badge/HTML-100%25-brightgreen" />
+✅ CSS <img src="https://img.shields.io/badge/CSS-100%25-brightgreen" />
+✅ JavaScript <img src="https://img.shields.io/badge/JS-100%25-brightgreen" />
+✅ Tailwind <img src="https://img.shields.io/badge/Tailwind-90%25-green" />
+✅ SQL <img src="https://img.shields.io/badge/SQL-80%25-blue" />
+✅ Telegram Bot API <img src="https://img.shields.io/badge/TelegramBot-85%25-blue" />
+
 
 </div>
 
